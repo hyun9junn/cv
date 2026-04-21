@@ -1,7 +1,10 @@
 # Hyungjun Kim
 
-khjmove@snu.ac.kr · +82-10-5489-0173 · Seoul, Korea  
-[www.linkedin.com/in/hyungjun-kim-200581389/?locale=en-US](https://www.linkedin.com/in/hyungjun-kim-200581389/?locale=en-US) · [github.com/hyun9junn](https://github.com/hyun9junn)
+email: khjmove@snu.ac.kr
+phone number: +82-10-5489-0173
+City: Seoul, Korea  
+[Linkedin](https://www.linkedin.com/in/hyungjun-kim-200581389/?locale=en-US)
+[github](https://github.com/hyun9junn)
 
 ## Summary
 
@@ -107,3 +110,4 @@ Full C++ Pac-Man clone with gameplay systems and AI ghost logic
 - Wrote official promotional articles for College of Engineering
 - Mentored students in outreach engineering programs
 - Developed leadership, writing, and communication skills
+
