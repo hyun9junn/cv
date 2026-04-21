@@ -68,23 +68,23 @@ Quantized LG AI Research K-EXAONE model into W4A16 AWQ format
 - Validated compatibility with vLLM serving stack
 - Benchmarked latency and throughput against competing models
 
-### [H-Trust](https://github.com/Sselrats/h-trust)
-AI trust decision support platform powered by Gemini API
-- Built modular reasoning pipeline and deployable web architecture
-- Used AI coding agents for planning, coding, debugging, and refactoring
-- Won 1st place in Hanwha Life Future Talent Contest
-
 ### [FlatQuant Optimization](https://github.com/ruikangliu/FlatQuant)
 Performance analysis and optimization of FlatQuant post-training quantization
 - Investigated why theoretical quantization speedups were not achieved in real GPU inference
 - Analyzed kernel bottlenecks, memory movement, and dispatch overhead
 - Contributed fixes and improvements to open-source repository
 
-### Medical AI with Vision-Language Models
-Applied multimodal foundation models to medical image diagnosis tasks
-- Explored reinforcement learning methods to improve pre-trained VLM performance
-- Studied integration of LLMs with medical data workflows
-- Performed PyTorch fine-tuning and evaluation experiments
+### [H-Trust](https://github.com/Sselrats/h-trust)
+AI trust decision support platform powered by Gemini API
+- Built modular reasoning pipeline and deployable web architecture
+- Used AI coding agents for planning, coding, debugging, and refactoring
+- Won 1st place in Hanwha Life Future Talent Contest
+
+### [MKCV](https://github.com/hyun9junn/mkcv)
+YAML-driven CV / resume generation platform built with AI coding agents
+- Designed a single-source-of-truth resume system using YAML schemas
+- Leveraged Claude Code agent workflows for rapid planning, frontend/backend coding, refactoring, and iteration
+- This CV was also generated using the MKCV platform
 
 ### [ARC Reasoning LLM](https://https://github.com/2025DL-Team1/DL-ARC-Project)
 Lightweight Abstract Reasoning Corpus solver using quantized Qwen LLM
@@ -112,4 +112,3 @@ Full C++ Pac-Man clone with gameplay systems and AI ghost logic
 - Wrote official promotional articles for College of Engineering
 - Mentored students in outreach engineering programs
 - Developed leadership, writing, and communication skills
-
