@@ -2,8 +2,6 @@
 
 email: khjmove@snu.ac.kr
 
-phone number: +82-10-5489-0173
-
 City: Seoul, Korea  
 
 [Linkedin](https://www.linkedin.com/in/hyungjun-kim-200581389/?locale=en-US)
